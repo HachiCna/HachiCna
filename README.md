@@ -1,7 +1,7 @@
 ### OIEE💖
 
 
-  <img align="center" alt="chae" src="https://pin.it/23pTpJW">
+  <img align="center" alt="chae" src="https://i.pinimg.com/564x/52/0a/44/520a448172564fb7e3dc261a95f9a4f4.jpg">
 <a href="https://br.pinterest.com/worldluvsyou/" target="_blank"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank">
 </a>
 <a href="https://www.instagram.com/hachicna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
