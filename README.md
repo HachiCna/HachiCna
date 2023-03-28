@@ -5,5 +5,3 @@
 </a>
 
 <img src="https://i.pinimg.com/originals/ce/8f/73/ce8f73323f4928da96edad437e0e804a.gif" height="400em">
-  <img align="center" alt="chae" src="https://i.pinimg.com/564x/52/0a/44/520a448172564fb7e3dc261a95f9a4f4.jpg">
-  
