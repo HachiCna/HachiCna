@@ -20,7 +20,7 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D8BFD8&height=120&section=footer"/>
+<img width=100% src="https://camo.githubusercontent.com/0ae8ca7dffe2885203db49265365bdd36c5b230f98964895fec4bd4ee85d1a81/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d464239364245266865696768743d3132302673656374696f6e3d666f6f746572&color=#D8BFD8&height=120&section=footer"/>
    <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HachiCna}/count.svg" /></p> 
