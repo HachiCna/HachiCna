@@ -1,5 +1,6 @@
+ <3
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#D8BFD8&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=Oii,+meu+nome+é+Ana+Caroline<3;I'm+18+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=Oii,+meu+nome+é+Ana+Caroline<3;I'm+20+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/ce/8f/73/ce8f73323f4928da96edad437e0e804a.gif" height="400em">
@@ -16,7 +17,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachiCna&layout=compact&hide_border=true&title_color=&text_color=ff91a4&bg_color=0d1117" />
 </div>
     
-
+### Studying in this moment:
+![ReactNative](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
     
 
    <div align="center">
